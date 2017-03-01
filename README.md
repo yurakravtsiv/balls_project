@@ -1,1 +1,1 @@
-# empty_project
+# squares
